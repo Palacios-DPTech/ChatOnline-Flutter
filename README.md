@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://raw.githubusercontent.com/Palacios-OPTIMOS/CalculadoraIMC-Flutter/main/assets/images/chatonline.png" width="70" alt="Chat Online "/>
+      <img src="https://github.com/Palacios-OPTIMOS/ChatOnline-Flutter/blob/main/assets/images/chatonline.png" width="70" alt="Chat Online "/>
 </p>
 
 <h1 align="center">Chat Onliner</h1>
